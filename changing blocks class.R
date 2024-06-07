@@ -1,3 +1,5 @@
+#Code by Luis Alvarez luisalvarez.10.96@gmail.com; github: luisalvarez96
+
 library(tidyr)
 library(dplyr)
 library(igraph)
