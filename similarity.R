@@ -1,3 +1,5 @@
+# Code by Prof Stefan Wuchty: wuchtys@cs.miami.edu
+
 #!/usr/local/bin/Rscript
 library(org.EcK12.eg.db)
 library(GOSemSim)
